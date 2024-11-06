@@ -20,8 +20,7 @@ void main(){
      double num1 = 0;
      double prod = 0;
      num1 = inputDouble("Digite o numero");
-     for(double i =1; i <=num1;i++){
-        prod = num1-i;
+     for(double i
         print(prod);
      }
 }
